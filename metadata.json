@@ -1,0 +1,6 @@
+{
+  "name": "Tesla Roadster: Apex Pursuit",
+  "description": "High-octane cyberpunk thriller racing game featuring the Tesla Roadster with real vehicle physics, SpaceX cold-gas thrusters, and intense syndicate pursuit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
